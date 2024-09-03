@@ -1,0 +1,123 @@
+[0m[[0m[31merror[0m] [0m[0mjava.lang.Exception: Some classes are not defined:[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.RISCVAssembler[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.STALL_REASON[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.Decoder[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_FUNCT3[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.NEXT_PC_SELECT[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.ALU_OP_2_SEL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.ALUInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractDecoder[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.generic.GenericCore[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractALU[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.ALU_CONTROL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32M.DivisionUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.ALU_OP_1_SEL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_TYPE[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.LineParser[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.InstructionParser[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.BranchUnitInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.Types[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.Core[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.RegisterInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_FUNCT7[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.ControlUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.PCInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.FillInstruction[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.ExecutionUnitInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.REG_WRITE_SEL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.Instructions[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.Instruction[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.BranchUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.DecoderInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.ALU[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.RegMap[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.generic.RegisterFile[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractBranchUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_FUNCT12[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.AbstractRegisterFile[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_OP[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.RVFIInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.PseudoInstructions[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.DataInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.InstructionInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.generic.ProgramCounter[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32M.MultiplicationUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.ResetInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.AbstractExecutionUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.InstType[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.AbstractProgramCounter[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.ControlUnitInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractControlUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.ObjectUtils[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32M.BonusDivisionUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.RV32I[0m
+[0m[[0m[31merror[0m] [0m[0m	at $27650239775a2841a2f3$.$anonfun$$sbtdef$1(C:\Users\vedsh\sysarch-project-one\src\main\scala\arithmetic\build.sbt:146)[0m
+[0m[[0m[31merror[0m] [0m[0m	at $27650239775a2841a2f3$.$anonfun$$sbtdef$1$adapted(C:\Users\vedsh\sysarch-project-one\src\main\scala\arithmetic\build.sbt:82)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Function1.$anonfun$compose$1(Function1.scala:49)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$4.work(Transform.scala:69)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.work(Execute.scala:292)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.Thread.run(Thread.java:829)[0m
+[0m[[0m[31merror[0m] [0m[0m([31mcheck[0m) java.lang.Exception: Some classes are not defined:[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.RISCVAssembler[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.STALL_REASON[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.Decoder[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_FUNCT3[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.NEXT_PC_SELECT[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.ALU_OP_2_SEL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.ALUInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractDecoder[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.generic.GenericCore[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractALU[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.ALU_CONTROL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32M.DivisionUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.ALU_OP_1_SEL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_TYPE[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.LineParser[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.InstructionParser[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.BranchUnitInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.Types[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.Core[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.RegisterInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_FUNCT7[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.ControlUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.PCInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.FillInstruction[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.ExecutionUnitInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.REG_WRITE_SEL[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.Instructions[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.Instruction[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.BranchUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.DecoderInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.ALU[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.RegMap[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.generic.RegisterFile[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractBranchUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_FUNCT12[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.AbstractRegisterFile[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.model.RISCV_OP[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.RVFIInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.PseudoInstructions[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.DataInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.InstructionInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.generic.ProgramCounter[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32M.MultiplicationUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.ResetInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.AbstractExecutionUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.InstType[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.generic.AbstractProgramCounter[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.ControlUnitInterface[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.interfaces.RV32I.AbstractControlUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.utils.assembler.ObjectUtils[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32M.BonusDivisionUnit[0m
+[0m[[0m[31merror[0m] [0m[0mRISCV.implementation.RV32I.RV32I[0m
