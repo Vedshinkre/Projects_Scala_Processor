@@ -23,23 +23,3 @@ Implemented the RISC-V M-Extension, which includes multiplication and division i
 ### Java and Scala:
 Ensure you have Java and Scala installed, along with sbt (Simple Build Tool).
 Chisel: This project is built using Chisel, so you'll need to have a working Scala environment with sbt.
-
-## Installation Steps
-### Clone the Repository:
-
-
-git clone https://github.com/yourusername/chisel-hardware-design.git
-cd chisel-hardware-design
-Install Dependencies:
-
-
-sbt compile
-Run Tests:
-
-sbt test
-Testing
-Testing is an integral part of this project. Use the provided test cases, and consider adding your own to ensure the correctness of your implementation. Tests are located in the src/test/scala directory.
-
-To run the tests:
-
-sbt test
